@@ -1,5 +1,10 @@
 # -*- coding: utf-8 -*-
+"""
+Created on Mon Aug 19 14:57:25 2019
 
+@author: Syrine Belakaria
+This code is based on the code from https://github.com/takeno1995/BayesianOptimization
+"""
 from sklearn.kernel_approximation import RBFSampler
 import numpy as np
 import numpy.matlib
