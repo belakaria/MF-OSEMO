@@ -14,6 +14,7 @@ The code is implemented in Python and requires the following packages:
 
 ### Citation
 If you use this code in your academic work please cite our papers:
+```bibtex
 
 @inproceedings{belakaria2020multifidelity,
   title={Multi-fidelity multi-objective bayesian optimization: an output space entropy search approach},
@@ -33,4 +34,5 @@ If you use this code in your academic work please cite our papers:
   year={2021}
 }
 
+````
 
