@@ -13,4 +13,24 @@ The code is implemented in Python and requires the following packages:
 3. [pygmo](https://esa.github.io/pygmo2/install.html) 
 
 ### Citation
-If you use this code in your academic work please cite our AAAI paper: "Multi-Fidelity Multi-Objective Bayesian Optimization: An Output Space Entropy Search Approach" ,  Syrine Belakaria, Aryan Deshwal, Janardhan Rao Doppa.
+If you use this code in your academic work please cite our papers:
+
+@inproceedings{belakaria2020multifidelity,
+  title={Multi-fidelity multi-objective bayesian optimization: an output space entropy search approach},
+  author={Belakaria, Syrine and Deshwal, Aryan and Doppa, Janardhan Rao},
+  booktitle={Proceedings of the AAAI Conference on artificial intelligence},
+  volume={34},
+  number={06},
+  pages={10035--10043},
+  year={2020}
+}
+@article{belakaria2021output,
+  title={Output Space Entropy Search Framework for Multi-Objective Bayesian Optimization},
+  author={Belakaria, Syrine and Deshwal, Aryan and Doppa, Janardhan Rao},
+  journal={Journal of Artificial Intelligence Research},
+  volume={72},
+  pages={667-715},
+  year={2021}
+}
+
+
